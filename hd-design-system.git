@@ -1,1 +1,8 @@
-Hello world!
+# macOS system files
+.DS_Store
+
+# VS Code project settings
+.vscode/
+
+# Logs
+*.log
