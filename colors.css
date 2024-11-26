@@ -1,0 +1,34 @@
+
+:root {
+    --colorPrimaryHdColorPrimary50: #f1f5fd;    
+    --colorPrimaryHdColorPrimary100: #e8eefc;    
+    --colorPrimaryHdColorPrimary200: #dbe4fa;    
+    --colorPrimaryHdColorPrimary300: #c4d3f7;    
+    --colorPrimaryHdColorPrimary400: #b2c5f5;    
+    --colorPrimaryHdColorPrimary500: #9cb4f2;    
+    --colorPrimaryHdColorPrimary600: #85a3ef;    
+    --colorPrimaryHdColorPrimary700: #668ceb;    
+    --colorPrimaryHdColorPrimary800: #3d6de5;    
+    --colorPrimaryHdColorPrimary900: #1846b9;    
+    --colorPrimaryHdColorPrimary950: #0f2a71;    
+    --colorSuccessHdColorSuccess502: #eef7e8;    
+    --colorSuccessHdColorSuccess400: #abda90;    
+    --colorSuccessHdColorSuccess800: #5ea336;    
+    --colorColorHdColorWarning50: #fff7ed;    
+    --colorColorHdColorWarning400: #f5c89e;    
+    --colorColorHdColorWarning800: #e77e19;    
+    --colorColorHdColorDestructive50: #fdf2f2;    
+    --colorColorHdColorDestructive400: #f3b4b7;    
+    --colorColorHdColorDestructive800: #de343a;    
+    --colorColorHdColorNeutral50: #f7f7f8;    
+    --colorColorHdColorNeutral100: #f0f1f4;    
+    --colorColorHdColorNeutral200: #e0e1e6;    
+    --colorColorHdColorNeutral300: #c7cad3;    
+    --colorColorHdColorNeutral400: #8b919f;    
+    --colorColorHdColorNeutral500: #5a606e;    
+    --colorColorHdColorNeutral600: #3c4352;    
+    --colorColorHdColorNeutral700: #2b3241;    
+    --colorColorHdColorNeutral800: #191f2b;    
+    --colorColorHdColorNeutral900: #0e131e;    
+    --colorColorHdColorNeutral950: #020305;    
+}
