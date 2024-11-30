@@ -31,4 +31,9 @@
   --colorHdColorNeutral800: #191f2b;
   --colorHdColorNeutral900: #0e131e;
   --colorHdColorNeutral950: #020305;
+  --colorBorderRadiusXlarge: #f2f2f2;
+  --colorBorderRadiusLarge: #f2f2f2;
+  --colorBorderRadiusMedium: #f2f2f2;
+  --colorBorderRadiusSmall: #f2f2f2;
+  --colorBorderRadiusNone: #f2f2f2;
 }

@@ -2,4 +2,13 @@
 :root {
   --typographyDisplayHeading1: Bold var(--fontSizeDisplayDisplay01Bold)/24px "Inter";
   --typographyTest: Regular 14px/20px "Inter";
+  --typographyDisplay03ExtraBold: 800 48px/120% "Inter";
+  --typographyDisplay03Bold: 700 48px/120% "Inter";
+  --typographyDisplayMobileDisplay03SemiBold: 600 48px/120% "Inter";
+  --typographyDisplayMobileDisplay02ExtraBold: 800 60px/120% "Inter";
+  --typographyDisplayMobileDisplay02Bold: 700 60px/120% "Inter";
+  --typographyDisplayMobileDisplay02SemiBold: 600 60px/120% "Inter";
+  --typographyDisplayMobileDisplay01ExtraBold: 800 72px/120% "Inter";
+  --typographyDisplayMobileDisplay01Bold: 700 72px/120% "Inter";
+  --typographyDisplayMobileDisplay01SemiBold: 600 72px/120% "Inter";
 }
